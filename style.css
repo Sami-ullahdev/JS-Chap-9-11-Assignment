@@ -36,6 +36,7 @@ body {
 .btns {
     display: flex;
     gap: 30px;
+    margin-top: 10px;
 }
 
 .btn-design {
